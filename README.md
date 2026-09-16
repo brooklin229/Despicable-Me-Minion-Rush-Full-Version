@@ -242,4 +242,4 @@ This repository serves as the official landing page for Despicable Me: Minion Ru
 **Get the most recent version of Despicable Me: Minion Rush today!**
 
 ---
-**Last updated:** 2026-09-16 20:36:50 UTC
+**Last updated:** 2026-09-16 23:23:05 UTC
